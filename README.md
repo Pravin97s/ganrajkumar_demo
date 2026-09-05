@@ -1,4 +1,4 @@
 # ganrajkumar_demo
 This is my first git repository
 <br>
-Author-Ganraj Kumar
+Author-Ganraj Kumar(IIIT Manipur)
